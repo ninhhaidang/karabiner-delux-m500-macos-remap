@@ -11,4 +11,4 @@ This repository contains a Karabiner-Elements configuration file that remaps the
 1. Install [Karabiner-Elements](https://karabiner-elements.pqrs.org/).
 2. Download the configuration file from this repository:
    ```bash
-   curl -O https://raw.githubusercontent.com/ninhhaidang/karabiner-delux-m500-macos-remap/main/delux-m500-copy-paste-remap.json
+   curl -O https://raw.githubusercontent.com/ninhhaidang/karabiner-delux-m500-macos-remap/main/config.json
